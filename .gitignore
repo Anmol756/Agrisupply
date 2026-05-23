@@ -1,0 +1,17 @@
+# Environment files
+.env
+backend/.env
+
+# Databases
+backend/agrisupply.db
+*.db
+
+# Local VS Code / Editor config
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
